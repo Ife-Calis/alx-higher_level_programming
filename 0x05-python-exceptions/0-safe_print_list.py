@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-#0-safe_print_list.py
+# 0-safe_print_list.py
+# Ifechukwu Anyika
+
 def safe_print_list(my_list=[], x=0):
     """Print x elememts of a list.
     Args:
