@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 101-safe_function.py
-# Ifechukwu Anyika <calistusifechukwu39@gmail.com>
+# Ifechukwu Anyika
 
 import sys
 
