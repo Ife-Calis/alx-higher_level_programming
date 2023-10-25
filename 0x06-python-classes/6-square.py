@@ -1,20 +1,17 @@
 #!/usr/bin/python3
+# 6-square.py
+"""Define a class Square."""
 class Square:
-    """class square 6"""
+    """Represent a square."""
 
     def __init__(self, size=0, position=(0, 0)):
-        """initialization method"""
+        """Initialize a new square.
+        Args:
+            size (int): The size of the new square.
+            position (int, int): The position of the new square.
+        """
         self.size = size
         self.position = position
 
     @property
     def size(self):
-        """getter method"""
-        return (self.__size)
-
-    @size.setter
-    def size(self, value):
-        """setter method"""
-        if type(value) != int:
-            raise TypeError('size must be an integer')
-        if value < 0:
