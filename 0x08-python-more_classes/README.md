@@ -11,7 +11,7 @@
 
 ## Learning Objectives
 
-At the end of this project, you are expected to be able to[explain to anyone,](./https://intranet.alxswe.com/rltoken/hOViVT2nJU8jeBxvw52bjw)without the help of Google:
+At the end of this project, you are expected to be able to [explain to anyone,](./https://intranet.alxswe.com/rltoken/hOViVT2nJU8jeBxvw52bjw)without the help of Google:
 
 ## General
 
@@ -62,5 +62,5 @@ At the end of this project, you are expected to be able to[explain to anyone,](.
 * The length of your files will be tested using wc
 
 
-### AUTHOR
+## AUTHOR
 Ifechukwu c. Anyika
