@@ -1,18 +1,18 @@
-#0x02. Python - import & modules
+# 0x02. Python - import & modules
 
-##Resources
-####Read or watch:
+## Resources
+### Read or watch:
 
 - Modules
 - Command line arguments
 - Pycodestyle – Style Guide for Python Code
-####man or help:
+### man or help:
 
 - python3
-##Learning Objectives
+## Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-###General
+## General
 - Why Python programming is awesome
 - How to import functions from another file
 - How to use imported functions
@@ -20,13 +20,15 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - How to use the built-in function dir()
 - How to prevent code in your script from being executed when imported
 - How to use command line arguments with your Python programs
-###Copyright - Plagiarism
+
+## Copyright - Plagiarism
 - You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
 - You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
 - You are not allowed to publish any content of this project.
 - Any form of plagiarism is strictly forbidden and will result in removal from the program.
-##Requirements
-###General
+
+## Requirements
+### General
 - Allowed editors: vi, vim, emacs
 - All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
 - All your files should end with a new line
@@ -36,7 +38,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - All your files must be executable
 - The length of your files will be tested using wc
 
-##Tasks
+## Tasks
 
 0. Import a simple function from a simple file
 
@@ -107,7 +109,7 @@ Write a program that imports the variable a from the file variable_load_5.py and
 - Your code should not be executed when imported
 
 6. Build my own calculator!
-####advanced
+#### advanced
 Write a program that imports all functions from the file calculator_1.py and handles basic operations.
 
 - Usage: ./100-my_calculator.py a operator b
@@ -128,18 +130,18 @@ Write a program that imports all functions from the file calculator_1.py and han
 - Your code should not be executed when imported
 
 7. Easy print
-####advanced
+#### advanced
 Write a program that prints #pythoniscool, followed by a new line, in the standard output.
 
 - Your program should be maximum 2 lines long
 - You are not allowed to use print or eval or open or import sys in your file 101-easy_print.py
 
 8. ByteCode -> Python #3
-####advanced
+#### advanced
 Write the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode:
 
 9. Fast alphabet
-####advanced
+#### advanced
 Write a program that prints the alphabet in uppercase, followed by a new line.
 
 - Your program should be maximum 3 lines long
@@ -149,3 +151,6 @@ Write a program that prints the alphabet in uppercase, followed by a new line.
 - str.join()
 - any string literal
 - any system calls
+
+# Author
+__Ifechukwu__ __Anyika__
