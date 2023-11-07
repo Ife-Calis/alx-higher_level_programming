@@ -240,5 +240,5 @@ You don’t need to understand __import__
 Write the Python function def magic_calculation(a, b, c): that does exactly the same as the following Python bytecode:
 
 
-# AUTHOR:
-#### ||IFECHUKWU C. ANYIKA||
+# AUTHOR
+IFECHUKWU C. ANYIKA
