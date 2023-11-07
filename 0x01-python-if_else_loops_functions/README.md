@@ -1,8 +1,8 @@
-#README.md
+# README.md
 
-##0x01. Python - if/else, loops, functions
+## 0x01. Python - if/else, loops, functions
 
-###General
+### General
 
 - Why Python programming is awesome
 - Why indentation is so important in Python
@@ -21,16 +21,16 @@
 - What’s a traceback
 - What are the arithmetic operators and how to use them
 
-###Copyright - Plagiarism
+### Copyright - Plagiarism
 
 - You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
 - You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
 - You are not allowed to publish any content of this project.
 - Any form of plagiarism is strictly forbidden and will result in removal from the program.
 
-##Requirements
+## Requirements
 
-###Python Scripts
+### Python Scripts
 
 - Allowed editors: vi, vim, emacs
 - All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
@@ -41,7 +41,7 @@
 - All your files must be executable
 - The length of your files will be tested using wc
 
-##C Scripts
+## C Scripts
 
 - Allowed editors: vi, vim, emacs
 - All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
@@ -54,11 +54,11 @@
 - Don’t forget to push your header file
 - All your header files should be include guarded
 
-##More Info
+## More Info
 Note: you do not need to understand lists yet.
 
 
-#Tasks
+# Tasks
 
 0. Positive anything is better than negative nothing
 
@@ -219,7 +219,7 @@ Technical interview preparation:
 - Return: the address of the new node, or NULL if it failed
 
 14. Smile in the mirror
-#advanced
+#### advanced
 Write a program that prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase (z in lowercase and Y in uppercase) , not followed by a new line.
 
 - You can only use one print function with string format
@@ -228,7 +228,7 @@ Write a program that prints the ASCII alphabet, in reverse order, alternating lo
 - You are not allowed to import any module
 
 15. Remove at position
-#advanced
+#### advanced
 Write a function that creates a copy of the string, removing the character at the position n (not the Python way, the “C array index”).
 
 - Prototype: def remove_char_at(str, n):
@@ -236,8 +236,9 @@ Write a function that creates a copy of the string, removing the character at th
 You don’t need to understand __import__
 
 16. ByteCode -> Python #2
-#advanced
+#### advanced
 Write the Python function def magic_calculation(a, b, c): that does exactly the same as the following Python bytecode:
 
 
-#AUTHOR:||IFECHUKWU C. ANYIKA||
+# AUTHOR:
+#### ||IFECHUKWU C. ANYIKA||
